@@ -1,6 +1,10 @@
 body {
   font-family: "Jost", sans-serif;
 }
+
+.container{
+    margin: 0 10%;
+}
 .main {
     display: flex;
 }
