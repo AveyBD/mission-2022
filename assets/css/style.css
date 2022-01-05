@@ -1,18 +1,17 @@
-body{
-    font-family: 'Jost', sans-serif;
+body {
+  font-family: "Jost", sans-serif;
 }
-.main{
-
-}
-
-.intro{
-
+.main {
+    display: flex;
 }
 
-.introLine{
-    border-left: 2px tomato solid;
+.intro {
 }
 
-.highlight{
-    color: orange;
+.introLine {
+  border-left: 2px tomato solid;
+}
+
+.highlight {
+  color: orange;
 }
