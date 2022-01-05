@@ -1,0 +1,18 @@
+body{
+    font-family: 'Jost', sans-serif;
+}
+.main{
+
+}
+
+.intro{
+
+}
+
+.introLine{
+    border-left: 2px tomato solid;
+}
+
+.highlight{
+    color: orange;
+}
