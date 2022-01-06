@@ -63,9 +63,13 @@ body {
   font-size: 20px;
   background-color: orangered;
   color: white;
-  margin: 20px 0;
+  margin: 50px 0;
   padding: 15px 50px;
   border-radius: 10px;
+}
+
+.mission{
+  margin-top: 200px;
 }
 
 .card {
@@ -100,4 +104,19 @@ body {
 
 .detailsInfo{
   font-size: 18px;
+}
+
+.information{
+  padding: 50px;
+}
+
+.sideImage{
+  max-width: 40%;
+}
+.adImage{
+  max-width: 100%;
+}
+
+.adtInfo{
+  font-size: 20px;
 }
