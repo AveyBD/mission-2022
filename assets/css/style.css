@@ -63,7 +63,6 @@ body {
   font-size: 20px;
   background-color: orangered;
   color: white;
-  margin: 50px 0;
   padding: 15px 50px;
   border-radius: 10px;
 }
@@ -119,4 +118,8 @@ body {
 
 .adtInfo{
   font-size: 20px;
+}
+
+.right{
+  float: right
 }
