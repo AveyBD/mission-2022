@@ -4,13 +4,15 @@ body {
 
 .container{
     margin: 0 10%;
-    max-width: 1200px;
+    /* max-width: 1200px; */
 }
 .main {
     display: flex;
 }
 
 .intro {
+  width: 50%;
+  
 }
 
 .introLine {
@@ -19,12 +21,20 @@ body {
   padding-left: 10px;
 }
 
+
 .highlight {
   color: orange;
 }
 
+.infoLine{
+  margin-bottom: 20px;
+}
+.pix{
+  width: 50%;
+}
 .pix img {
-  width: 40%
+  max-width: 100%;
+  /* margin-top: 50px; */
 }
 
 .button {
@@ -32,5 +42,7 @@ body {
   font-size: 15px;
   background-color: orangered;
   color: white;
-  
+  margin: 20px 0;
+  padding: 15px 50px;
+  border-radius: 10px;
 }
