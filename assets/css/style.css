@@ -27,11 +27,11 @@ body {
   border-bottom-left-radius: 5px;
 }
 
-.centered{
+.centered {
   text-align: center;
 }
 
-.centerImage{
+.centerImage {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -69,7 +69,7 @@ body {
   border-radius: 10px;
 }
 
-.mission{
+.mission {
   margin-top: 200px;
 }
 
@@ -79,58 +79,58 @@ body {
   max-width: 30%;
   border-radius: 15px;
 }
-.flexDiv{
+.flexDiv {
   display: flex;
 }
 
-.firstCard{
+.firstCard {
   background-color: khaki;
 }
 
-.secondCard{
-  background-color:lavender;
+.secondCard {
+  background-color: lavender;
 }
 
-.thirdCard{
-  background-color:lightcyan;
+.thirdCard {
+  background-color: lightcyan;
 }
 
 .icon {
   max-width: 150px;
 }
 
-.missioinTitle{
+.missioinTitle {
   font-size: 30px;
 }
 
-.detailsInfo{
+.detailsInfo {
   font-size: 18px;
 }
 
-.information{
+.information {
   padding: 50px;
 }
 
-.sideImage{
+.sideImage {
   max-width: 40%;
 }
-.adImage{
+.adImage {
   max-width: 100%;
 }
 
-.adtInfo{
+.adtInfo {
   font-size: 20px;
 }
 
-.right{
-  float: right
+.right {
+  float: right;
 }
 
-.footer{
+.footer {
   padding: 20px;
   background: black;
 }
 
-.white{
+.white {
   color: white;
 }
