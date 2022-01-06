@@ -15,11 +15,24 @@ body {
 }
 
 .introLine {
+  font-size: 60px;
+  padding-left: 10px;
+}
+
+.highlighted {
   border-left: 7px tomato solid;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  font-size: 60px;
-  padding-left: 10px;
+}
+
+.centered{
+  text-align: center;
+}
+
+.centerImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .highlight {
@@ -53,4 +66,27 @@ body {
   margin: 20px 0;
   padding: 15px 50px;
   border-radius: 10px;
+}
+
+.card {
+  margin: 10px;
+  padding: 10px;
+  max-width: 30%;
+  border-radius: 15px;
+}
+
+.firstCard{
+  background-color: khaki;
+}
+
+.icon {
+  max-width: 150px;
+}
+
+.missioinTitle{
+  font-size: 30px;
+}
+
+.detailsInfo{
+  font-size: 18px;
 }
