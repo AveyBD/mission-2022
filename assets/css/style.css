@@ -74,9 +74,20 @@ body {
   max-width: 30%;
   border-radius: 15px;
 }
+.flexDiv{
+  display: flex;
+}
 
 .firstCard{
   background-color: khaki;
+}
+
+.secondCard{
+  background-color:lavender;
+}
+
+.thirdCard{
+  background-color:lightcyan;
 }
 
 .icon {
